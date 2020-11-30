@@ -5,7 +5,11 @@
 
 2. PEGAR LA CARPETA DONDE SE ENCUENTRAN TODOS LOS ARCHIVOS DEL PROYECTO EN LA RUTA C:\xampp\htdocs
 
-3.IR AL NAVEGADOR escribir la ruta http://localhost/RecursosHumanos/index.php  ("RecursosHumanos" es la carpeta la cual llame donde esta los archivos del proyecto)
+3.IMPORTAR LA BASE DATOS llamada "schema" EN MYSQL (PHPMYADMIN)
 
-4.Le aparece un login.. usuario: admin ...... contraseña: admin
-5.navegador lo que se pudo hacer en el proyecto como agregar el tipo de riesgo, cubrimiento de la poliza, y creacion de un nuevo cliente Todo esto en el apartado de catalogo.
+4.IR AL NAVEGADOR escribir la ruta http://localhost/RecursosHumanos/index.php  ("RecursosHumanos" es la carpeta la cual llame donde esta los archivos del proyecto)
+
+5.Le aparece un login.. usuario: admin ...... contraseña: admin
+
+
+NOTA.EXPLORAR lo que se pudo hacer en el proyecto como agregar el tipo de riesgo, cubrimiento de la poliza, y creacion de un nuevo cliente Todo esto en el apartado de catalogo.
